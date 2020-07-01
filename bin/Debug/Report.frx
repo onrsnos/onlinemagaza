@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="12/22/2018 14:35:53" ReportInfo.Modified="12/22/2018 14:41:34" ReportInfo.CreatorVersion="2018.4.18.0">
+  <Dictionary>
+    <Parameter Name="Parameter" DataType="System.String"/>
+    <Parameter Name="Parameter1" DataType="System.String"/>
+    <Parameter Name="Parameter2" DataType="System.String"/>
+  </Dictionary>
+  <ReportPage Name="Page1">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="75.6" Fill.Color="LightSteelBlue">
+      <TextObject Name="Text1" Left="56.7" Top="28.35" Width="179.55" Height="28.35" Text="Online Satis&#13;&#10;" Font="Arial, 20pt"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="79.6" Width="718.2" Height="302.4" Fill.Color="LightSteelBlue">
+      <TextObject Name="Text2" Left="66.15" Top="37.8" Width="113.4" Height="37.8" Fill.Color="LightSteelBlue" Text="Üye id:" Font="Arial, 16pt"/>
+      <TextObject Name="Text3" Left="66.15" Top="113.4" Width="160.65" Height="37.8" Fill.Color="LightSteelBlue" Text="Alınan Ürünler:" Font="Arial, 16pt"/>
+      <TextObject Name="Text4" Left="66.15" Top="207.9" Width="141.75" Height="37.8" Fill.Color="LightSteelBlue" Text="Ürün miktarı:" Font="Arial, 16pt"/>
+      <TextObject Name="Text5" Left="264.6" Top="37.8" Width="132.3" Height="28.35" Fill.Color="LightSteelBlue" Text="[Parameter]" Font="Arial, 16pt"/>
+      <TextObject Name="Text6" Left="283.5" Top="113.4" Width="151.2" Height="18.9" Fill.Color="LightSteelBlue" Text="[Parameter1]" Font="Arial, 16pt"/>
+      <TextObject Name="Text7" Left="274.05" Top="207.9" Width="151.2" Height="37.8" Fill.Color="LightSteelBlue" Text="[Parameter2]" Font="Arial, 16pt"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="386" Width="718.2" Height="9.45" Fill.Color="LightSteelBlue"/>
+    <PageFooterBand Name="PageFooter1" Top="399.45" Width="718.2" Height="378" Fill.Color="LightSteelBlue"/>
+  </ReportPage>
+</Report>

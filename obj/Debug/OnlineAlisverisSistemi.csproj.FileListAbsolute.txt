@@ -1,0 +1,152 @@
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe.config
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csprojResolveAssemblyReference.cache
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.AnaSayfa.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.BakiyeEkle.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Form1.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.HesapDetay.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Kayit.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Magaza.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.MagazaDetay.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.PersonelPanel.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Properties.Resources.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SatinAlmaGecmisi.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisDetay.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisVer.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UrunIslemler.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UyeIslemleri.resources
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csproj.GenerateResource.Cache
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.pdb
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.exe
+C:\Users\hamdi\Desktop\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.pdb
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe.config
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.exe
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.pdb
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.pdb
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csprojResolveAssemblyReference.cache
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.AnaSayfa.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.BakiyeEkle.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Form1.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.HesapDetay.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Kayit.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Magaza.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.MagazaDetay.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.PersonelPanel.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Properties.Resources.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SatinAlmaGecmisi.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisDetay.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisVer.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UrunIslemler.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UyeIslemleri.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csproj.GenerateResource.Cache
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Sifremiunuttum.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe.config
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.exe
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.pdb
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.pdb
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csprojResolveAssemblyReference.cache
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.AnaSayfa.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.BakiyeEkle.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Form1.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.HesapDetay.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Kayit.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Magaza.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.MagazaDetay.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.PersonelPanel.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Properties.Resources.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SatinAlmaGecmisi.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Sifremiunuttum.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisDetay.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisVer.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UrunIslemler.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UyeIslemleri.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csproj.GenerateResource.Cache
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe.config
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.exe
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.pdb
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.pdb
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csprojResolveAssemblyReference.cache
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.AnaSayfa.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.BakiyeEkle.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Form1.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.HesapDetay.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Magaza.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.MagazaDetay.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.PersonelPanel.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Properties.Resources.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SatinAlmaGecmisi.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Sifremiunuttum.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisDetay.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisVer.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UrunIslemler.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UyeIslemleri.resources
+C:\Users\hamdi\Desktop\Yeni klasör\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csproj.GenerateResource.Cache
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe.config
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.exe
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.pdb
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.pdb
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csprojResolveAssemblyReference.cache
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.AnaSayfa.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.BakiyeEkle.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Form1.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.HesapDetay.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Magaza.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.MagazaDetay.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.PersonelPanel.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Properties.Resources.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SatinAlmaGecmisi.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Sifremiunuttum.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisDetay.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisVer.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UrunIslemler.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UyeIslemleri.resources
+C:\Users\inoSoma\Desktop\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csprojAssemblyReference.cache
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.AnaSayfa.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.BakiyeEkle.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Form1.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.HesapDetay.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Magaza.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.MagazaDetay.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.PersonelPanel.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Properties.Resources.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SatinAlmaGecmisi.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Sifremiunuttum.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisDetay.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisVer.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UrunIslemler.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UyeIslemleri.resources
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csproj.GenerateResource.cache
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.exe
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.pdb
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe.config
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.pdb
+C:\Users\Onur\Desktop\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csproj.ResolveComReference.cache
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csprojAssemblyReference.cache
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csproj.ResolveComReference.cache
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.AnaSayfa.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.BakiyeEkle.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Form1.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.HesapDetay.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Magaza.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.MagazaDetay.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.PersonelPanel.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Properties.Resources.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SatinAlmaGecmisi.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.Sifremiunuttum.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisDetay.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.SiparisVer.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UrunIslemler.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.UyeIslemleri.resources
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csproj.GenerateResource.cache
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.exe
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.pdb
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe.config
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe
+E:\All in\Veri tabani projesi\VTYS PROJE\final\OnlineAlisverisSistemi2 (1)\OnlineAlisverisSistemi2\OnlineAlisverisSistemi2\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.pdb
